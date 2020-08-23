@@ -3,4 +3,7 @@ void main ()
 fun1()
 {
 }
+fun3
+{
+}
 }
